@@ -1,0 +1,1 @@
+The whole code for Shrink and Expose: Locate Edge Coarse-to-Fine for Camouflaged Object Detection. We will publish it when our paper is accepted. You can download our saliency map now. All the experimental results are also presented here.
